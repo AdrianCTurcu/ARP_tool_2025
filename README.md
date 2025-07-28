@@ -11,4 +11,4 @@ Funcționalități
 - Fereastra **nu poate fi redimensionată** (design fix)
 - Copyright în colț dreapta jos
 
-![]()
+![](https://github.com/AdrianCTurcu/ARP_tool_2025/blob/main/ARP-a.jpg)
